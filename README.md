@@ -28,6 +28,7 @@ This project likely involves payment processing functionalities. More details wi
 ## Tech Stack / Key Dependencies
 
 - Java
+- SpringBoot
 
 ## File Structure Overview
 
