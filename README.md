@@ -19,17 +19,26 @@
 
 <!-- TODO: Add screenshots if applicable -->
 
-## Features
+🪙 PaymentKaro
 
-<!-- TODO: List the key features of PaymentKaro based on functionality -->
+A Java-based payment integration system that supports multiple payment gateways such as Razorpay and Stripe.
 
-This project likely involves payment processing functionalities. More details will be added as the code is analyzed further.
+📌 Overview
 
-## Tech Stack / Key Dependencies
+PaymentKaro is a simple and modular payment service built with Java and Spring Boot.
+It enables developers to easily integrate multiple payment providers like Razorpay and Stripe into their applications.
 
-- Java
-- SpringBoot
+🚀 Features
 
+💳 Supports multiple payment gateways (Razorpay, Stripe)
+
+⚙️ Easy integration with REST APIs
+
+🧩 Modular design — add more gateways easily
+
+📜 Clean code structure following best practices
+
+🔒 Secure and reliable transaction handling
 ## File Structure Overview
 
 ```text
